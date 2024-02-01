@@ -1,5 +1,4 @@
 # Employee-performance-analysis-project-guidline
-Certainly! Combining SQL for data preparation and Power BI for visualization is a powerful approach for analyzing employee performance. Below is a step-by-step guide on how to use SQL and Power BI for this purpose:
 
 ### 1. SQL Data Preparation:
 
@@ -79,4 +78,3 @@ Certainly! Combining SQL for data preparation and Power BI for visualization is 
 #### d. Iterate and Refine:
    - Gather feedback, iterate on your analysis, and refine your Power BI report as needed.
 
-By combining SQL for data preparation and Power BI for visualization, you can create a robust and interactive analysis of employee performance, making it easier for stakeholders to understand and act on insights.
